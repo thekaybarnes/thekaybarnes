@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thekaybarnes, software engineer extraordinaire!
 - 👀 I’m interested in creating code that will change the world creatively and socially.
 - 🌱 I’m currently expanding my knowledge of Python, C++, Java, HTML, CSS, Swift, SQL ,and Project Management methodoligies.
-- 💞️ I’m looking to collaborate on a Human Computer interaction or AI project.
+- 💞️ I’m looking to collaborate on a Human Computer Interaction or Machine Learning project.
 - 📫 How to reach me: LinkedIn
 
 <!---
